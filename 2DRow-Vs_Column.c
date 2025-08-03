@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-#define N 1000
+#define N 100
 
 int matrix[N][N];
 
